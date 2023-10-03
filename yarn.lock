@@ -1224,6 +1224,11 @@ micromatch@^4.0.4:
     braces "^3.0.2"
     picomatch "^2.3.1"
 
+mini.css@3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/mini.css/-/mini.css-3.0.1.tgz#f6236e99997bbd19484d5655d087ec96b887af68"
+  integrity sha512-FmuuBL0wuyDO1UA66TkAo8w2RxxuHmNPaUqUHcYlHtM9CJkrscQaNAJ/ParEahYFwtZOSgfEA7flbMoSPkzrPA==
+
 minimatch@^3.0.5, minimatch@^3.1.1, minimatch@^3.1.2:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-3.1.2.tgz#19cd194bfd3e428f049a70817c038d89ab4be35b"
